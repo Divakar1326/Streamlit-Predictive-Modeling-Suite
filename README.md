@@ -1,5 +1,3 @@
-Here’s the combined **README** file summarizing **Drug Prediction**, **Spam Detection**, **Stock Price Prediction**, and **Health (Cancer, CHD, Diabetes, Stroke) Prediction** applications:
-
 ---
 
 # **Comprehensive Machine Learning Prediction Web Application** 📊
