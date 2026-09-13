@@ -353,7 +353,7 @@ Potential improvements include:
 
 **B.Tech CSE — Artificial Intelligence & Data Science**
 
-AI/ML • Generative AI • Python • Machine Learning
+AI/ML • Generative AI • Python • Machine Learning • NLP
 
 <p align="center">
   <a href="https://github.com/Divakar1326">
